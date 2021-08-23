@@ -1,4 +1,4 @@
-package review;
+package array;
 
 public class Array04_Length {
 

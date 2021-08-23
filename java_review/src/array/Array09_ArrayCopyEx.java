@@ -1,4 +1,4 @@
-package review;
+package array;
 //System.arrayCopy를 사용한 배열복사
 public class Array09_ArrayCopyEx {
 

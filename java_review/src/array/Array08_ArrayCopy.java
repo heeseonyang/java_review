@@ -1,4 +1,4 @@
-package review;
+package array;
 //for문을 사용한 배열복사
 public class Array08_ArrayCopy {
 

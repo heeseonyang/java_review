@@ -1,4 +1,4 @@
-package review;
+package array;
 
 public class Array05_mainStringArray {
 	

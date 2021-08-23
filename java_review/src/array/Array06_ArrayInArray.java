@@ -1,4 +1,4 @@
-package review;
+package array;
 
 public class Array06_ArrayInArray {
 
