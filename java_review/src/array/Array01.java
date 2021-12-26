@@ -1,7 +1,7 @@
 package array;
 
 public class Array01 {
-	
+	 
 	public static void main(String[]args) {
 		int[] score = {83, 90, 87};
 		
@@ -15,9 +15,9 @@ public class Array01 {
 		
 		}
 		
-		System.out.println("ÃÑÇÕ : " + sum);
-		double avg = (double) sum /3; //¼Ò¼öÁ¡ ¾Æ·¡±îÁö Á¤È®È÷ Ãâ·ÂÇÏ±â À§ÇØ ½Ç¼ö/Á¤¼ö¸¦ ÇØÁØ´Ù.
-		System.out.println("Æò±Õ : " + avg);
+		System.out.println("ï¿½ï¿½ï¿½ï¿½ : " + sum);
+		double avg = (double) sum /3; //ï¿½Ò¼ï¿½ï¿½ï¿½ ï¿½Æ·ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½È®ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½Ï±ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½Ç¼ï¿½/ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½Ø´ï¿½.
+		System.out.println("ï¿½ï¿½ï¿½ : " + avg);
 	}
 	
 
